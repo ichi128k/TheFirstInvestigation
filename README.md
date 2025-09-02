@@ -32,4 +32,4 @@ OS: Windows 10 Pro 22H2
 ## スクリーンショット
 ![screenshot1](Screenshots/Scr1.png)
 ![screenshot2](Screenshots/Scr2.png)
-![screenshot3](Screenshots/Scr1.png)
+![screenshot3](Screenshots/Scr3.png)
