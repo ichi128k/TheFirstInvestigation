@@ -28,3 +28,8 @@ OS: Windows 10 Pro 22H2
 [Space]: プラズマ兵器発射
 [r]: リスタート
 [Esc]: ゲーム終了（スタンドアロン実行時）
+
+## スクリーンショット
+![screenshot1](Screenshots/Scr1.png)
+![screenshot2](Screenshots/Scr2.png)
+![screenshot3](Screenshots/Scr1.png)
